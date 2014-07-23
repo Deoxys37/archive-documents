@@ -1,4 +1,4 @@
 archive-documents
 =================
 
-Archive Documents web-application written in Java with Spring Framework
+web-application written in Java and Spring Framework
