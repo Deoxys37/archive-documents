@@ -1,0 +1,57 @@
+#title {
+	position: absolute;
+	border: 2px solid black;
+	background-color: #cabf55;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 93%;
+	font-size: 30px; 
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+	text-decoration: none;
+	text-align: center;
+	color: black;
+}
+
+div {
+	position: absolute;
+	background-color: #6164a7;
+	left: 0px; 
+	right: 40%;
+	top: 7%;
+	bottom: 0px;
+	text-align: center;
+}
+
+#responses {
+	position: absolute;
+	background-color: #8161a7;
+	left: 60%; 
+	right: 0px;
+	top: 23px;
+	bottom: 5px;
+	text-align: center;
+}
+
+.user_data {
+	position: relative;
+	margin-top: -1px;
+	border: 1px solid black;
+}
+
+a {
+	position: absolute;
+	background-color: #64a761;
+	left: 60%;
+	right: 0px;
+	top: 96%;
+	bottom: 0px;
+	text-decoration: none;
+	text-align: center;
+	font-size: 18px;
+}
+
+a:hover {
+	background-color: black;
+	color: yellow;
+}

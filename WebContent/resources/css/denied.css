@@ -1,0 +1,66 @@
+body {
+	position: absolute;
+	top: 5px;
+	right: 10px;
+	bottom: 10px;
+	left: 5px;
+	background-color: #babab2;
+	height: 95%;
+}
+
+#title {
+	position: absolute;
+	border: 2px solid black;
+	background-color: #cabf55;
+	left: 0px;
+	right: 0px;
+	font-size: 30px; 
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+	text-decoration: none;
+	text-align: center;
+	color: black;
+}
+
+div {
+	position: absolute;
+	border: 1px solid black;
+	background-color: #e8e7e0;
+	box-shadow: 10px 10px 5px #888888;
+    left: 0px;
+    right: 0px;
+    top: 39px;
+    bottom: 0px;
+}
+
+div * {
+	position: relative;
+	margin-left: 20px;
+}
+
+div a {
+	position: absolute;
+	left: 0px;
+	right: 20px;
+	bottom: 130px;
+	text-align: center;
+	font-family: Consolas, monaco, monospace;
+	font-size: 18px;
+	font-weight: bold;
+	color: #2b6437;
+}
+
+li {
+	margin-left: 80px;	
+}
+
+span {
+	font-size: 18px;
+	margin: 0px 4px 0px 4px;
+	font-family: fantasy;
+	font-weight: normal;
+}
+
+div h3 {
+	margin-top: 50px;
+	margin-left: 80px;
+}
